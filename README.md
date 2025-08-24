@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Sou Daniel Alves 👋
 
-<!--
-**Daniellz8/daniellz8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional com foco em unir **precisão técnica** e **eficiência operacional**. Minha experiência de dois anos como Auxiliar de Escritório me deu uma base sólida em gestão de dados, suporte ao cliente e controle financeiro, habilidades que se complementam perfeitamente com minha paixão por programação.
 
-Here are some ideas to get you started:
+## 💻 Minhas Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha experiência com desenvolvimento reforça a **disciplina zero-erro** e a **precisão lógica** essenciais para lidar com dados e sistemas complexos. Fui treinado(a) para **identificar e resolver problemas** de forma autônoma, garantindo que as operações continuem fluindo.
+
+* **Front-End:** HTML5, CSS3, JavaScript.
+* **Versionamento:** Git & GitHub.
+* **Habilidades Digitais:** Proficiência no Pacote Office, Gestão de E-mail, Controle de Sistemas Internos.
+
+## 💼 Experiência Profissional (2 Anos)
+
+Trabalhei por dois anos como Auxiliar de Escritório, onde minhas responsabilidades abrangiam:
+
+* **Gestão Administrativa e Financeira:** Suporte no **controle de sistemas**, **movimentação e controle financeiro** (recebimento em caixa físico e online), e **geração e controle de boletos**.
+* **Organização e Suporte:** **Gestão e organização de arquivos** (físicos e digitais) e **atendimento multicanal ao cliente** (presencial e online).
+
+---
+
+## 🔗 Projetos e Contato
+
+Aqui você pode encontrar alguns dos projetos que desenvolvi. Convido você a explorar o código e a usabilidade!
+
+* **[Meu Portfólio Completo](https://daniellz8.github.io/portfolio-dan/)**
+* **[Meu Perfil no GitHub](https://github.com/daniellz8)**
