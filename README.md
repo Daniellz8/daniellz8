@@ -1,4 +1,4 @@
-# Olá! Sou Daniel Alves 👋
+# Bem-vindo ao meu perfil! 👋
 
 Sou um profissional com foco em unir **precisão técnica** e **eficiência operacional**. Minha experiência de dois anos como Auxiliar de Escritório me deu uma base sólida em gestão de dados, suporte ao cliente e controle financeiro, habilidades que se complementam perfeitamente com minha paixão por programação.
 
